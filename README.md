@@ -19,28 +19,7 @@ This project has been divided into different jupyter notebooks:
 2.1	Step_1: Feature selection.
 
 Table I. data_Recidiva		
-Name of variables	Meaning	Type
-Sexo	Patient’s gender	str
-Edad	Patient’s age	int
-Num_lesion_total	total number of injuries*	int
-tratamientos_vez	Number of treatments performed at the same time	int
-tratatos_anteriomente	Has the patient been treated for an injury before?	str
-Mts-tto	Time between discovery of metastases and the treatment	int
-Mst-dco	Time between diagnosis of primary cancer and discovery of metastases	int
-Histología	Time between treatment and discovery of metastases	str
-NeumotoraxHematoma	Does the patient have hepatic hematoma?	str
-numeroQtPrevias	Number of chemotherapies prior to treatment	int
-TtoLocalPrevio	has the patient had any local treatment prior to radiotherapy?	str
-mtsSNC	Does the patient have metastases in the central nervous system?	str
-mtdOtrosNiveles	Does the patient have metastases in another area?	str
-VolPTV	Planning treatment volume	int
-BEDmax_test	Maximum effective biological dose	int
-BEDmim_test	Minimum effective biological dose	int
-VolHigSano	Healthy liver volume	int
-ControlRespiratorio	Respiratory control during treatment	str
-GradoTox	Patient’s degree of toxicity	int
-Segmento	Liver segment	str
-ReciLocal	Does the patient present local recurrence after treatment?	int
+![image](https://user-images.githubusercontent.com/74373030/125140165-316fbf00-e112-11eb-8aea-a8a4eb69dc09.png)
 
 
 Table I. data_Recidiva		
